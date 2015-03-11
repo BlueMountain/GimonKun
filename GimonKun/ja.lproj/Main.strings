@@ -1,0 +1,12 @@
+
+/* Class = "IBUITabBarItem"; title = "Setting"; ObjectID = "5nF-PY-08d"; */
+"5nF-PY-08d.title" = "Setting";
+
+/* Class = "IBUITabBarItem"; title = "Output"; ObjectID = "7VN-S8-WXN"; */
+"7VN-S8-WXN.title" = "Output";
+
+/* Class = "IBUITabBarItem"; title = "Input"; ObjectID = "SXh-RZ-YZn"; */
+"SXh-RZ-YZn.title" = "Input";
+
+/* Class = "IBUIViewController"; title = "Enter"; ObjectID = "tpI-kn-XeG"; */
+"tpI-kn-XeG.title" = "Enter";
